@@ -83,7 +83,7 @@ Test F1 Score 0.7257174392935983
 ### Best Model Confusion Matrix and Classification Reports
 * Confusion Matrix
 
-* CLassification Reports 
+* Classification Reports 
 ```
               precision    recall  f1-score   support
 
