@@ -18,9 +18,15 @@
 ### Exploratory Data Highlight
 Frequency Distribution of Income per Education
 
+![alt text](https://github.com/ELSady/Classification-US-Cityzen-Income-/blob/main/index1.png)
+
 Frequency Distribution of Income Category per Occupation and Workclass
 
+![alt text](https://github.com/ELSady/Classification-US-Cityzen-Income-/blob/main/index2.png)
+
 Frequency Distribution of Income Category per Marital-status and Relationship
+
+![alt text](https://github.com/ELSady/Classification-US-Cityzen-Income-/blob/main/index3.png)
 
 ### Data Preparation Before Model Implementation
 * Imbalanced target feature `Income category` checking. This is to ensure which scoring parameter is best used for dataset.
@@ -82,6 +88,8 @@ Test F1 Score 0.7257174392935983
 
 ### Best Model Confusion Matrix and Classification Reports
 * Confusion Matrix
+
+![alt text](https://github.com/ELSady/Classification-US-Cityzen-Income-/blob/main/index.png)
 
 * Classification Reports 
 ```
