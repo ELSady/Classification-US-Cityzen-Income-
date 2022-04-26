@@ -45,8 +45,8 @@ Frequency Distribution of Income Category per Marital-status and Relationship
 * Standardizing for numerical data using Robust scaler and Onehot encoder for categorical features.
 
 ### Model Building 
-Tree-based algorithm model were used as they can plot features importances and gives weight to features and determines which ones are contribute leading up to customer churn.
-3 Model used are `Random Forest, Stochastic Gradient Boosting, LightGBM.`
+* Tree-based algorithm model were used as they can plot features importances and gives weight to features and determines which ones are contribute leading up to customer churn.
+* 3 Model used are `Random Forest, Stochastic Gradient Boosting, LightGBM.`
 
 ### Model Performance
 * Random Forest
@@ -96,6 +96,8 @@ Test Recall 0.6750513347022588
 Test F1 Score 0.7257174392935983
 *****************************************
 ```
+* Of all 3 tested models, `Lightgbm` has the edge ove the other 2 models. Indicated by its higher number of prediction scores of `Accuracy, F1, Precision and Recall`. This model will be used as base to build the optimized model later on.
+* The Optimized model were build upon this LightGBM model. Optimization are done to reduce basically non performing features, features which contribute less or even dont contributes at all to prediction scores. The value of these can bee seen using model integrated's feature importance.
 
 ### Best Model Confusion Matrix and Classification Reports
 * Confusion Matrix
