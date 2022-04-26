@@ -29,7 +29,11 @@ Frequency Distribution of Income Category per Occupation and Workclass
 
 * Similar to that of per `Education` basis distribution, here we can also see that below 50 K earners are still dominating the distribution. With cityzen who worked as Clerical administration, Craft-repair and other work related services have the highest count of workers amongst other occupation in this category. In contrast to previous statement, for above 50 K earners are dominated by Exective managers and Proffesors / Specialist occupied cityzen. 
 
+* Distributon per `WOrkclass` basis, clearly seen for both categories, Private business / company dominates the chart. US cityzens are mostly entrepreneurs.
+
 Frequency Distribution of Income Category per Marital-status and Relationship
+
+* Per `Marital-status` basis, the income distribution as for below 50 K earner dominates by either Married or non married cityzen. Well its no surprise, but interesting thing is here, the divorced couple counts has is almost as many as other status counts. While for above 50 K earners, married cityzen having the hihgest count of distribution. The disparity count is very very clear.
 
 ![alt text](https://github.com/ELSady/Classification-US-Cityzen-Income-/blob/main/index3.png)
 
