@@ -21,11 +21,13 @@ Frequency Distribution of Income per Education
 
 ![alt text](https://github.com/ELSady/Classification-US-Cityzen-Income-/blob/main/index1.png)
 
-* The income distribution per education basis, can be seen many cityzen earn below 50 K a year. WIth High-school graudate dominates followed by bachelors gradute and college student who have a part time job aside studying for the top 3 in this category On the other non minority side, interestingly some bachelors and high schoolgradute are able to earn above 50 K a year even on board college students are too. Perhaps the so called `side hustle` is indeed a thing in this modern age.
+* The income distribution per `Education` basis, can be seen many cityzen earn below 50 K a year. WIth High-school graudate dominates followed by bachelors gradute and college student who have a part time job aside studying for the top 3 in this category On the other non minority side, interestingly some bachelors and high schoolgradute are able to earn above 50 K a year even on board college students are too. Perhaps the so called `side hustle` is indeed a thing in this modern age.
 
 Frequency Distribution of Income Category per Occupation and Workclass
 
 ![alt text](https://github.com/ELSady/Classification-US-Cityzen-Income-/blob/main/index2.png)
+
+* Similar to that of per `Education` basis distribution, here we can also see that below 50 K earners are still dominating the distribution. With cityzen who worked as Clerical administration, Craft-repair and other work related services have the highest count of workers amongst other occupation in this category. In contrast to previous statement, for above 50 K earners are dominated by Exective managers and Proffesors / Specialist occupied cityzen. 
 
 Frequency Distribution of Income Category per Marital-status and Relationship
 
