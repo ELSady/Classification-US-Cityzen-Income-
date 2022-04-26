@@ -33,9 +33,11 @@ Frequency Distribution of Income Category per Occupation and Workclass
 
 Frequency Distribution of Income Category per Marital-status and Relationship
 
+![alt text](https://github.com/ELSady/Classification-US-Cityzen-Income-/blob/main/index3.png)
+
 * Per `Marital-status` basis, the income distribution as for below 50 K earner dominates by either Married or non married cityzen. Well its no surprise, but interesting thing is here, the divorced couple counts has is almost as many as other status counts. While for above 50 K earners, married cityzen having the hihgest count of distribution. The disparity count is very very clear.
 
-![alt text](https://github.com/ELSady/Classification-US-Cityzen-Income-/blob/main/index3.png)
+* As for per `Relationship` basis, one thing in common for both caegories, Husbands are  te family's backbone which is natural. Putting aside that fact, below 50 K earners are dominated by singled status cityzen. While for above 50 K earners, refer to the facts said in previous senetence.
 
 ### Data Preparation Before Model Implementation
 * Imbalanced target feature `Income category` checking. This is to ensure which scoring parameter is best used for dataset.
