@@ -1,6 +1,7 @@
 ## Data Science Project Classification : United States Cityzen Income Classification Overview
 * Build a machine learning model to classify United States citizen's income falls into below 50K or above 50K a year.
 * Uniterd States records of over 30.000 cityzen.
+* Feature Engineered several features for dataset to be easier to read and be inplemented by machine learning model.
 * Data Exploration helps giving insight the distribution of `Income` category based on `Education, Occupation, Workclass`. and how much cityzen having an income based on them `Marital-Status` or `Relationship`.
 * Using `Tree-based algorithm's feature importance` to determine which features contributes the most in terms of customer churn.
 * Optimized Tree-based algorithm to output higher score Accuracy, F1, Precision, Recall
@@ -19,6 +20,8 @@
 Frequency Distribution of Income per Education
 
 ![alt text](https://github.com/ELSady/Classification-US-Cityzen-Income-/blob/main/index1.png)
+
+* The income distribution per education basis, can be seen many cityzen earn below 50 K a year. WIth High-school graudate dominates followed by bachelors gradute and college student who have a part time job aside studying for the top 3 in this category On the other non minority side, interestingly some bachelors and high schoolgradute are able to earn above 50 K a year even on board college students are too. Perhaps the so called `side hustle` is indeed a thing in this modern age.
 
 Frequency Distribution of Income Category per Occupation and Workclass
 
